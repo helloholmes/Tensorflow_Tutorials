@@ -1,2 +1,2 @@
 # Tensorflow_Tutorials
-a simple tutorials of Tensorflow
+simple tutorials of Tensorflow
